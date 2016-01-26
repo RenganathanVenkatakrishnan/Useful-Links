@@ -1,7 +1,17 @@
 Setting up Virtual Box with Ubuntu ---
 
----virtual box showing only 32 bit versions to install
+Whole Tutorial:
+instructables.com
 
+Virtual Box Download URL:
+https://www.virtualbox.org/wiki/Downloads
+
+---virtual box showing only 32 bit versions to install
+Way 1:
 Check win 8 configs
 URL : http://www.fixedbyvonnie.com/2014/11/virtualbox-showing-32-bit-guest-versions-64-bit-host-os/#.VqcNUvl97IU
+
+Way2:
+Run the installer again and select repair option
+
 
